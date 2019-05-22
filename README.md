@@ -23,5 +23,5 @@
 <br/> <br/>
 
 ## 打赏
-![](https://github.com/mfdy/private-things/blob/master/wechat.png)
-![](https://github.com/mfdy/private-things/blob/master/alpay.jpg)
+<img src="https://github.com/mfdy/private-things/blob/master/wechat.png" width=200 />
+<img src="https://github.com/mfdy/private-things/blob/master/alpay.jpg" width=200 />
