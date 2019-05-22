@@ -30,5 +30,5 @@
 <br/> <br/>
 
 ## 打赏
-<img src="https://github.com/mfdy/private-things/blob/master/wechat.png" width=200 float=left />
+<img src="https://github.com/mfdy/private-things/blob/master/wechat.png" width=200 style="float:left" />
 <img src="https://github.com/mfdy/private-things/blob/master/alpay.jpg" width=200 />
