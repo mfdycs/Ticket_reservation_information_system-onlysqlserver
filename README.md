@@ -30,7 +30,8 @@
 <br/> <br/>
 
 ## 打赏
-<figure class = "half">
+
+<figure class="half">
     <img src="https://github.com/mfdy/private-things/blob/master/wechat.png" width=200 />
     <img src="https://github.com/mfdy/private-things/blob/master/alpay.jpg" width=200 />
 </figure>
