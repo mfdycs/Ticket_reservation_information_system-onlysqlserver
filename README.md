@@ -28,10 +28,3 @@
 ![](https://github.com/mfdy/Ticket_reservation_information_system-onlysqlserver/blob/master/images/%E6%9C%BA%E7%A5%A8%E9%A2%84%E5%AE%9A%E4%BF%A1%E6%81%AF%E7%B3%BB%E7%BB%9F%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 
 <br/> <br/>
-
-## 打赏
-
-<figure class="half">
-    <img src="https://github.com/mfdy/private-things/blob/master/wechat.png" width=200 />
-    <img src="https://github.com/mfdy/private-things/blob/master/alpay.jpg" width=200 />
-</figure>
